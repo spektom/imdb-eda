@@ -1,3 +1,4 @@
 data/*.gz
 .ipynb_checkpoints
 venv/
+pyvis_out/
